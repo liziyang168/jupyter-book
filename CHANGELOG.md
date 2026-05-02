@@ -2,6 +2,35 @@
 
 <!-- <START NEW CHANGELOG ENTRY> -->
 
+## 2.1.5
+
+([Full Changelog](https://github.com/jupyter-book/jupyter-book/compare/v2.1.4...4bc5b64c42e2fdf26059d6f8eef0b085092d7f23))
+
+### Maintenance and upkeep improvements
+
+- Bump the actions group in /.github/workflows with 5 updates [#2617](https://github.com/jupyter-book/jupyter-book/pull/2617) ([@bsipocz](https://github.com/bsipocz))
+- Fix docs noxfile and add a footer [#2609](https://github.com/jupyter-book/jupyter-book/pull/2609) ([@choldgraf](https://github.com/choldgraf))
+- Bump the actions group in /.github/workflows with 3 updates [#2608](https://github.com/jupyter-book/jupyter-book/pull/2608) ([@bsipocz](https://github.com/bsipocz))
+
+### Documentation improvements
+
+- Point to mystmd docs more and move to index pages [#2620](https://github.com/jupyter-book/jupyter-book/pull/2620) ([@choldgraf](https://github.com/choldgraf))
+
+### Other merged PRs
+
+- Update myst cli [#2621](https://github.com/jupyter-book/jupyter-book/pull/2621) ([@choldgraf](https://github.com/choldgraf))
+
+### Contributors to this release
+
+The following people contributed discussions, new ideas, code and documentation contributions, and review.
+See [our definition of contributors](https://github-activity.readthedocs.io/en/latest/use/#how-does-this-tool-define-contributions-in-the-reports).
+
+([GitHub contributors page for this release](https://github.com/jupyter-book/jupyter-book/graphs/contributors?from=2026-04-01&to=2026-05-02&type=c))
+
+@bsipocz ([activity](https://github.com/search?q=repo%3Ajupyter-book%2Fjupyter-book+involves%3Absipocz+updated%3A2026-04-01..2026-05-02&type=Issues)) | @choldgraf ([activity](https://github.com/search?q=repo%3Ajupyter-book%2Fjupyter-book+involves%3Acholdgraf+updated%3A2026-04-01..2026-05-02&type=Issues))
+
+<!-- <END NEW CHANGELOG ENTRY> -->
+
 ## 2.1.4
 
 ([Full Changelog](https://github.com/jupyter-book/jupyter-book/compare/v2.1.3...a3f7741f752c1b5c20467fbb70f337907e44f567))
@@ -25,8 +54,6 @@ See [our definition of contributors](https://github-activity.readthedocs.io/en/l
 ([GitHub contributors page for this release](https://github.com/jupyter-book/jupyter-book/graphs/contributors?from=2026-02-13&to=2026-04-01&type=c))
 
 @agoose77 ([activity](https://github.com/search?q=repo%3Ajupyter-book%2Fjupyter-book+involves%3Aagoose77+updated%3A2026-02-13..2026-04-01&type=Issues)) | @bsipocz ([activity](https://github.com/search?q=repo%3Ajupyter-book%2Fjupyter-book+involves%3Absipocz+updated%3A2026-02-13..2026-04-01&type=Issues)) | @choldgraf ([activity](https://github.com/search?q=repo%3Ajupyter-book%2Fjupyter-book+involves%3Acholdgraf+updated%3A2026-02-13..2026-04-01&type=Issues)) | @evdcush ([activity](https://github.com/search?q=repo%3Ajupyter-book%2Fjupyter-book+involves%3Aevdcush+updated%3A2026-02-13..2026-04-01&type=Issues))
-
-<!-- <END NEW CHANGELOG ENTRY> -->
 
 ## 2.1.3
 
